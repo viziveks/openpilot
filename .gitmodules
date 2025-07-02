@@ -18,4 +18,6 @@
   url = https://github.com/tinygrad/tinygrad.git
 [submodule "opendbc-repo"]
 	path = opendbc-repo
-	url = git@github.com:jacobwaller/opendbc-2025-crosstrek.git
+	url = https://github.com/jacobwaller/opendbc
+[submodule "opendbc_repo"]
+	url = https://github.com/jacobwaller/opendbc
