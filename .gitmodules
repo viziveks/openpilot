@@ -3,7 +3,7 @@
   url = ../../commaai/panda.git
 [submodule "opendbc"]
   path = opendbc_repo
-  url = ../../commaai/opendbc.git
+  url = https://github.com/jacobwaller/opendbc
 [submodule "msgq"]
   path = msgq_repo
   url = ../../commaai/msgq.git
@@ -16,8 +16,3 @@
 [submodule "tinygrad"]
   path = tinygrad_repo
   url = https://github.com/tinygrad/tinygrad.git
-[submodule "opendbc-repo"]
-	path = opendbc-repo
-	url = https://github.com/jacobwaller/opendbc
-[submodule "opendbc_repo"]
-	url = https://github.com/jacobwaller/opendbc
